@@ -1,0 +1,14 @@
+---
+title: "Ryunhee_lab8"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+full_name<- "Ryunhee Kim"
+lab8 <- "lab8 is so fun"
+lab8
+```
